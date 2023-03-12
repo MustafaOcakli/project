@@ -70,5 +70,5 @@ info:
  application:
   name: 'VisionRent Backend App'  
   description: 'This is VisionRent Carrental Backend Project'
-  version: '@project.version@' 
+  version: '1.0.0' 
      
